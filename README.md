@@ -23,4 +23,4 @@ The dataset used for this project is the "Dogs vs. Cats" dataset, which is avail
 Contributions aimed at enhancing the classifier's accuracy or refining the preprocessing steps are highly encouraged. Please fork the repository and create a pull request with your proposed modifications.
 
 ## License
-This project is distributed under the MIT License. See the LICENSE file in the repository for more information.
+This project is distributed under the MIT License. 
